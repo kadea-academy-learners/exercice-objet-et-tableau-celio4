@@ -3,7 +3,7 @@
 // - nom (string)
 // - age (number)
 // - estAdmin (boolean)
-// La fonction doit retourner un tableau contenant les noms des utilisateurs qui sont admin.
+// La fonction doit retourner un tableau contenant les noms des utilisateurs qui sont admin
 
 function whoIsAdmin() {
 	
