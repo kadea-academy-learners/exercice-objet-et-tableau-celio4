@@ -16,7 +16,7 @@
 //    - Recherche l'utilisateur correspondant à l'email dans `baseDeDonnees`.
 //    - Si l'utilisateur n'existe pas ou si le mot de passe est incorrect, retourne un message d'erreur.
 //    - Si l'utilisateur est bloqué (`estBloque` à true), retourne un message d'erreur spécifique.
-//    - Sinon, met à jour `estConnecte` à true pour cet utilisateur et retourne l'objet utilisateur connecté.
+//    - Sinon, met à jour `estConnecte` à true pour cet utilisateur et retourne l'objet utilisateur connecté
 
 const baseDeDonnees = [];
 
